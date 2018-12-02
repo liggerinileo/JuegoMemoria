@@ -1,0 +1,52 @@
+*{
+  font-family: 'Gugi', cursive;
+}
+.titulo{
+  margin-left: 40%;
+
+}
+.contador {
+   border: 1px dashed grey;
+   height: 20px;
+}
+button{
+  font-size: 20px;
+  background-color: grey;
+  color: black;
+  border-radius: 10px;
+  margin-left: 47%;
+}
+button, .form{
+  margin-top: 1%;
+}
+.tablero{
+  width: auto;
+  height: 100%;
+  display: inline-block;
+  margin-left: 15%;
+  margin.bottom: 1%;
+}
+
+.form{
+  margin-left: 42.3%;
+}
+ input[type=submit]{
+   font-size: 15px;
+   background-color: grey;
+   border-radius: 5px;
+ }
+ .oculto{
+   display: none;
+ }
+ .tiempoUsuario{
+   margin-left: 18%;
+ }
+ .tabla, .tiempoUsuario, .tablero{
+   margin-top: 2%;
+ }
+ .tabla{
+  width: auto;
+}
+table{
+  margin: 0 auto;
+}
